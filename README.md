@@ -1,2 +1,12 @@
 # Hello-world
 Very first repo
+
+Hi
+
+I'm Collins Mbaka, A user experience designer
+
+I appreciate the beauty of life, i think life is a beautiful design, an example of the perfect design.
+Design issa way of life, its trying to find or create solutions to well defined problem, you can say using
+design methodologies, i like to see it as steady/consistent experimentation or just simply staying focused on the
+solving a known problem, doing whatever it takes to get it done, However you know best.
+I try to use the things i create or work on to improve the way of life, both for myself and people around me.
